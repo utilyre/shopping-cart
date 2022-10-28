@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "/products/book.jpg",
+    "name": "Book",
+    "brief": "A book is a medium for recording information in the form of writing or images, typically composed of many pages (made of papyrus, parchment, vellum, or paper) bound together and protected by a cover.",
+    "price": 38.9
+  },
+  {
+    "id": 2,
+    "image": "/products/computer.jpg",
+    "name": "Computer",
+    "brief": "A computer is a digital electronic machine that can be programmed to carry out sequences of arithmetic or logical operations (computation) automatically. Modern computers can perform generic sets of operations known as programs.",
+    "price": 190.1
+  },
+  {
+    "id": 3,
+    "image": "/products/banana.jpg",
+    "name": "Banana",
+    "brief": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called \"plantains\", distinguishing them from dessert bananas.",
+    "price": 10
+  },
+  {
+    "id": 4,
+    "image": "/products/car.jpg",
+    "name": "Car",
+    "brief": "A car (or automobile) is a wheeled motor vehicle that is used for transportation. Most definitions of cars say that they run primarily on roads, seat one to eight people, have four wheels, and mainly transport people instead of goods.",
+    "price": 729.9
+  }
+]
